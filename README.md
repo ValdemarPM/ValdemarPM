@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ValdemarPM
-- 👀 I’m interested in development and project management 
+- 👀 I’m interested in development and product management 
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on app development 
 
